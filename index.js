@@ -8,3 +8,4 @@ function syaHello(){
 function sayBye(){
     console.log("Bye"+name1)
 }
+console.log("old")
